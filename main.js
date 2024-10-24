@@ -6,5 +6,5 @@ function h1() {
 }
 
 console.log(h1);
-let hi = window.prompt("how are you?")
+let hi = console.log("how are you?")
 console.log(hi);
