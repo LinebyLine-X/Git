@@ -1,1 +1,5 @@
+# one file
 data.py
+
+# all file who have .py
+*.py
